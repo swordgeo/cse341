@@ -11,7 +11,7 @@ app.listen(port, () => {
     console.log(`Running on port ${port}`)
 })
 
-let poop;
+
 
 const {MongoClient} = require('mongodb');
 
